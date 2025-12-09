@@ -1,30 +1,21 @@
 # John Achee
 
-## Principal Automation Engineer • Oracle APEX/PLSQL • DevOps • AI-Driven Automation
+## Principal Automation Engineer • Oracle APEX/PLSQL • Bash, Perl, Python • DevOps • AI-Driven Automation
 
 ![Profile](https://img.shields.io/badge/Oracle-APEX-blue) ![Profile](https://img.shields.io/badge/PL%2FSQL-Expert-green) ![Profile](https://img.shields.io/badge/Python-Automation-yellow) ![Profile](https://img.shields.io/badge/Ansible-DevOps-red) ![Profile](https://img.shields.io/badge/AI-OpenAI-black) ![Profile](https://img.shields.io/badge/GitHub-Actions-purple)
 
 ---
 
 ## 🔥 About Me
-Hands-on engineer specializing in Oracle APEX, PL/SQL, Python/Perl automation, and DevOps pipelines. 15+ years building operational tooling, data integrations, ETL, and full-stack dashboards for enterprise infrastructure.
+Hands-on engineer specializing in Oracle APEX, PL/SQL, Bash, Python/Perl automation, and DevOps pipelines. 15+ years building operational tooling, data integrations, ETL, and full-stack dashboards for enterprise infrastructure.
 
 Open-source contributor, platform builder, and civic-tech enthusiast.
 
 ---
 
 ## 🚀 Featured Skills
-- Oracle APEX 24.x (Full-Stack Low-Code Development) - PL/SQL (Advanced packages, JSON, REST, security, RLS) - ORDS, OCI, SSO (Entra ID/Azure AD) - Python & Perl automation daemons - Ansible automation (DB lifecycle, clustered provisioning) - ETL/data pipelines (Data Vault modeling, DW integrations) - GitHub Actions CI/CD - REST API integration - PostgreSQL (current focus)
+- Oracle DB 23ai, Oracle APEX 24.x (Full-Stack Low-Code Development) - PL/SQL (Advanced packages, JSON, REST, security, RLS) - ORDS, OCI, SSO (Entra ID/Azure AD) - Bash, Python & Perl automation - Ansible automation (DB lifecycle, clustered provisioning) - ETL/data pipelines (Data Vault modeling, DW integrations) - GitHub Actions CI/CD - REST API integration - PostgreSQL (current focus)
 
----
-
-## 🧩 Portfolio & Work Samples
-Coming soon — transformed versions of your Firebreak, MindsetMuse, and Oracle demo library projects.
-
----
-
-## 📄 Full Resume
-Below is the full résumé content in Markdown for convenience:
 
 ---
 
@@ -105,10 +96,6 @@ CA**
 -   Intellicon Solutions --- Senior Technical Consultant (2003 -- 2010): Delivered data warehousing and analytics solutions for Fortune 500 clients (Coca-Cola, UBS, Cisco, Kaiser).
 
 -   Saba Software --- Software Engineer (1999 -- 2003): Built OLAP cubes, ETL connectors, and 100+ enterprise reports for learning management systems.
-
-## **Education**
-
-A.S. Computer Science & Programming --- Antelope Valley College
 
 ## **Certifications**
 
